@@ -937,3 +937,18 @@
 [23:25:27 | 31-03-2025] Wallet Address: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db
 [23:25:27 | 31-03-2025] Node Points: 987601
 [23:25:27 | 31-03-2025] Last Claim Point: 30/03/2025 20:20:15
+[03:22:16 | 01-04-2025] Wallet Address: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db
+[03:22:16 | 01-04-2025] Node Points: 987601
+[03:22:16 | 01-04-2025] Last Claim Point: 30/03/2025 20:20:15
+[03:22:17 | 01-04-2025] ✅ Points claimed for 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db
+[03:22:18 | 01-04-2025] 🚨 Failed to start node for 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db/start</pre>
+</body>
+</html>
+
