@@ -1280,3 +1280,28 @@
 </body>
 </html>
 
+[15:26:39 | 10-04-2025] Wallet Address: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db
+[15:26:39 | 10-04-2025] Node Points: 991601
+[15:26:39 | 10-04-2025] Last Claim Point: 08/04/2025 16:26:13
+[15:26:40 | 10-04-2025] 🚨 Failed to claim points for 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/claim-node-points</pre>
+</body>
+</html>
+
+[15:26:41 | 10-04-2025] 🚨 Failed to start node for 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db/start</pre>
+</body>
+</html>
+
